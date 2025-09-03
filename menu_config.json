@@ -1,0 +1,18 @@
+{
+  "1": {
+    "name": "List files in current directory",
+    "command": "ls -la"
+  },
+  "2": {
+    "name": "Run backup script",
+    "command": "./backup.sh"
+  },
+  "3": {
+    "name": "Check disk usage",
+    "command": "df -h"
+  },
+  "4": {
+    "name": "Show Python version",
+    "command": "python3 --version"
+  }
+}
